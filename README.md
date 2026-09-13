@@ -22,8 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://itisramkumar.github.io/QR_Component/)
-
+- Live Site URL: [https://itisramkumar.github.io/QR_Component/]
 ## My process
 
 ### Built with
@@ -84,7 +83,7 @@ I used Gemini to help me with by black points in font sizing and font weights in
 
 ## Author
 
-- Website - [R.T. Ram Kumar](https://itisramkumar.github.io/portfolio-v1/)
+- Website - [R.T. Ram Kumar's Portfolio](https://itisramkumar.github.io/portfolio-v1/)
 - Frontend Mentor - [@itisramkumar](https://www.frontendmentor.io/profile/itisramkumar)
 - Twitter - [@RK_Chain49](https://x.com/RK_Chain49)
 
